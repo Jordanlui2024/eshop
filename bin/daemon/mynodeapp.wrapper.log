@@ -1,0 +1,146 @@
+2024-12-10 07:02:55 - Starting D:\nodejs\node.exe  --harmony D:\nodejs\node_global\node_modules\node-windows\lib\wrapper.js --file C:\HOMEPAGE\proj\eshop\bin\www --scriptoptions= --log "MyNodeApp wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2024-12-10 07:02:59 - Started 32896
+2024-12-11 15:16:02 - Stopping mynodeapp.exe
+2024-12-11 15:16:02 - ProcessKill 32896
+2024-12-11 15:16:02 - Found child process: 25404 Name: conhost.exe
+2024-12-11 15:16:02 - Found child process: 31428 Name: node.exe
+2024-12-11 15:16:03 - Stopping process 25404
+2024-12-11 15:16:03 - Send SIGINT 25404
+2024-12-11 15:16:03 - SIGINT to 25404 failed - Killing as fallback
+2024-12-11 15:16:08 - Stopping process 31428
+2024-12-11 15:16:08 - Send SIGINT 31428
+2024-12-11 15:16:08 - SIGINT to 31428 failed - Killing as fallback
+2024-12-11 15:16:09 - Stopping process 32896
+2024-12-11 15:16:09 - Send SIGINT 32896
+2024-12-11 15:16:09 - SIGINT to 32896 failed - Killing as fallback
+2024-12-11 15:16:09 - Finished mynodeapp.exe
+2024-12-11 15:16:12 - Starting D:\nodejs\node.exe  --harmony D:\nodejs\node_global\node_modules\node-windows\lib\wrapper.js --file C:\HOMEPAGE\proj\eshop\bin\www --scriptoptions= --log "MyNodeApp wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2024-12-11 15:16:16 - Started 19924
+2024-12-11 15:24:35 - Stopping mynodeapp.exe
+2024-12-11 15:24:35 - ProcessKill 19924
+2024-12-11 15:24:35 - Found child process: 34060 Name: conhost.exe
+2024-12-11 15:24:35 - Found child process: 34068 Name: node.exe
+2024-12-11 15:24:35 - Stopping process 34060
+2024-12-11 15:24:35 - Send SIGINT 34060
+2024-12-11 15:24:35 - SIGINT to 34060 failed - Killing as fallback
+2024-12-11 15:24:38 - Stopping process 34068
+2024-12-11 15:24:38 - Send SIGINT 34068
+2024-12-11 15:24:38 - SIGINT to 34068 failed - Killing as fallback
+2024-12-11 15:24:39 - Stopping process 19924
+2024-12-11 15:24:39 - Send SIGINT 19924
+2024-12-11 15:24:39 - SIGINT to 19924 failed - Killing as fallback
+2024-12-11 15:24:39 - Finished mynodeapp.exe
+2024-12-11 15:24:41 - Starting D:\nodejs\node.exe  --harmony D:\nodejs\node_global\node_modules\node-windows\lib\wrapper.js --file C:\HOMEPAGE\proj\eshop\bin\www --scriptoptions= --log "MyNodeApp wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2024-12-11 15:24:48 - Started 29468
+2024-12-11 16:28:32 - Stopping mynodeapp.exe
+2024-12-11 16:28:32 - ProcessKill 29468
+2024-12-11 16:28:32 - Found child process: 19620 Name: conhost.exe
+2024-12-11 16:28:32 - Found child process: 34328 Name: node.exe
+2024-12-11 16:28:32 - Stopping process 19620
+2024-12-11 16:28:32 - Send SIGINT 19620
+2024-12-11 16:28:32 - SIGINT to 19620 failed - Killing as fallback
+2024-12-11 16:28:34 - Stopping process 34328
+2024-12-11 16:28:34 - Send SIGINT 34328
+2024-12-11 16:28:34 - SIGINT to 34328 failed - Killing as fallback
+2024-12-11 16:28:35 - Stopping process 29468
+2024-12-11 16:28:35 - Send SIGINT 29468
+2024-12-11 16:28:35 - SIGINT to 29468 failed - Killing as fallback
+2024-12-11 16:28:35 - Finished mynodeapp.exe
+2024-12-11 16:28:38 - Starting D:\nodejs\node.exe  --harmony D:\nodejs\node_global\node_modules\node-windows\lib\wrapper.js --file C:\HOMEPAGE\proj\eshop\bin\www --scriptoptions= --log "MyNodeApp wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2024-12-11 16:28:48 - Started 36776
+2024-12-11 16:39:06 - Stopping mynodeapp.exe
+2024-12-11 16:39:06 - ProcessKill 36776
+2024-12-11 16:39:06 - Found child process: 37412 Name: conhost.exe
+2024-12-11 16:39:06 - Found child process: 26040 Name: node.exe
+2024-12-11 16:39:06 - Stopping process 37412
+2024-12-11 16:39:06 - Send SIGINT 37412
+2024-12-11 16:39:06 - SIGINT to 37412 failed - Killing as fallback
+2024-12-11 16:39:09 - Stopping process 26040
+2024-12-11 16:39:09 - Send SIGINT 26040
+2024-12-11 16:39:09 - SIGINT to 26040 failed - Killing as fallback
+2024-12-11 16:39:10 - Stopping process 36776
+2024-12-11 16:39:10 - Send SIGINT 36776
+2024-12-11 16:39:10 - SIGINT to 36776 failed - Killing as fallback
+2024-12-11 16:39:10 - Finished mynodeapp.exe
+2024-12-11 16:39:12 - Starting D:\nodejs\node.exe  --harmony D:\nodejs\node_global\node_modules\node-windows\lib\wrapper.js --file C:\HOMEPAGE\proj\eshop\bin\www --scriptoptions= --log "MyNodeApp wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2024-12-11 16:39:17 - Started 1772
+2024-12-12 06:15:00 - Stopping mynodeapp.exe
+2024-12-12 06:15:00 - ProcessKill 1772
+2024-12-12 06:15:00 - Found child process: 20368 Name: conhost.exe
+2024-12-12 06:15:00 - Found child process: 36512 Name: node.exe
+2024-12-12 06:15:00 - Stopping process 20368
+2024-12-12 06:15:00 - Send SIGINT 20368
+2024-12-12 06:15:01 - SIGINT to 20368 failed - Killing as fallback
+2024-12-12 06:15:06 - Stopping process 36512
+2024-12-12 06:15:06 - Send SIGINT 36512
+2024-12-12 06:15:06 - SIGINT to 36512 failed - Killing as fallback
+2024-12-12 06:15:07 - Stopping process 1772
+2024-12-12 06:15:07 - Send SIGINT 1772
+2024-12-12 06:15:07 - SIGINT to 1772 failed - Killing as fallback
+2024-12-12 06:15:07 - Finished mynodeapp.exe
+2024-12-12 06:22:44 - Starting D:\nodejs\node.exe  --harmony D:\nodejs\node_global\node_modules\node-windows\lib\wrapper.js --file C:\HOMEPAGE\proj\eshop\bin\www --scriptoptions= --log "MyNodeApp wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2024-12-12 06:22:54 - Started 29880
+2024-12-12 07:15:25 - Stopping mynodeapp.exe
+2024-12-12 07:15:25 - ProcessKill 29880
+2024-12-12 07:15:25 - Shutdown exception
+Message:系统正在关机。
+
+Stacktrace:   在 System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   在 System.Management.ManagementScope.InitializeGuts(Object o)
+   在 System.Management.ManagementScope.Initialize()
+   在 System.Management.ManagementObjectSearcher.Initialize()
+   在 System.Management.ManagementObjectSearcher.Get()
+   在 winsw.WrapperService.GetChildPids(Int32 pid)
+   在 winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   在 winsw.WrapperService.StopIt()
+   在 winsw.WrapperService.OnShutdown()
+2024-12-12 07:16:16 - Starting D:\nodejs\node.exe  --harmony D:\nodejs\node_global\node_modules\node-windows\lib\wrapper.js --file C:\HOMEPAGE\proj\eshop\bin\www --scriptoptions= --log "MyNodeApp wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2024-12-12 07:16:17 - Started 6064
+2024-12-12 23:52:45 - Stopping mynodeapp.exe
+2024-12-12 23:52:45 - ProcessKill 6064
+2024-12-12 23:52:45 - Shutdown exception
+Message:系统正在关机。
+
+Stacktrace:   在 System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   在 System.Management.ManagementScope.InitializeGuts(Object o)
+   在 System.Management.ManagementScope.Initialize()
+   在 System.Management.ManagementObjectSearcher.Initialize()
+   在 System.Management.ManagementObjectSearcher.Get()
+   在 winsw.WrapperService.GetChildPids(Int32 pid)
+   在 winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   在 winsw.WrapperService.StopIt()
+   在 winsw.WrapperService.OnShutdown()
+2024-12-12 23:53:32 - Starting D:\nodejs\node.exe  --harmony D:\nodejs\node_global\node_modules\node-windows\lib\wrapper.js --file C:\HOMEPAGE\proj\eshop\bin\www --scriptoptions= --log "MyNodeApp wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2024-12-12 23:53:40 - Started 7896
+2024-12-13 09:53:37 - Stopping mynodeapp.exe
+2024-12-13 09:53:37 - ProcessKill 7896
+2024-12-13 09:53:37 - Shutdown exception
+Message:系统正在关机。
+
+Stacktrace:   在 System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   在 System.Management.ManagementScope.InitializeGuts(Object o)
+   在 System.Management.ManagementScope.Initialize()
+   在 System.Management.ManagementObjectSearcher.Initialize()
+   在 System.Management.ManagementObjectSearcher.Get()
+   在 winsw.WrapperService.GetChildPids(Int32 pid)
+   在 winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   在 winsw.WrapperService.StopIt()
+   在 winsw.WrapperService.OnShutdown()
+2024-12-13 09:54:26 - Starting D:\nodejs\node.exe  --harmony D:\nodejs\node_global\node_modules\node-windows\lib\wrapper.js --file C:\HOMEPAGE\proj\eshop\bin\www --scriptoptions= --log "MyNodeApp wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2024-12-13 09:54:27 - Started 6172
+2024-12-13 16:17:15 - Stopping mynodeapp.exe
+2024-12-13 16:17:15 - ProcessKill 6172
+2024-12-13 16:17:15 - Shutdown exception
+Message:系统正在关机。
+
+Stacktrace:   在 System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   在 System.Management.ManagementScope.InitializeGuts(Object o)
+   在 System.Management.ManagementScope.Initialize()
+   在 System.Management.ManagementObjectSearcher.Initialize()
+   在 System.Management.ManagementObjectSearcher.Get()
+   在 winsw.WrapperService.GetChildPids(Int32 pid)
+   在 winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   在 winsw.WrapperService.StopIt()
+   在 winsw.WrapperService.OnShutdown()
+2024-12-13 16:18:03 - Starting D:\nodejs\node.exe  --harmony D:\nodejs\node_global\node_modules\node-windows\lib\wrapper.js --file C:\HOMEPAGE\proj\eshop\bin\www --scriptoptions= --log "MyNodeApp wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2024-12-13 16:18:04 - Started 6836

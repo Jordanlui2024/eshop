@@ -1,0 +1,31 @@
+<service>
+	<id>mynodeapp.exe</id>
+	<name>MyNodeApp</name>
+	<description>My Node.js Application</description>
+	<executable>D:\nodejs\node.exe</executable>
+	<argument>--harmony</argument>
+	<argument>D:\nodejs\node_global\node_modules\node-windows\lib\wrapper.js</argument>
+	<argument>--file</argument>
+	<argument>C:\HOMEPAGE\proj\eshop\bin\www</argument>
+	<argument>--scriptoptions=</argument>
+	<argument>--log</argument>
+	<argument>MyNodeApp wrapper</argument>
+	<argument>--grow</argument>
+	<argument>0.25</argument>
+	<argument>--wait</argument>
+	<argument>1</argument>
+	<argument>--maxrestarts</argument>
+	<argument>3</argument>
+	<argument>--abortonerror</argument>
+	<argument>n</argument>
+	<argument>--stopparentfirst</argument>
+	<argument>undefined</argument>
+	<logmode>rotate</logmode>
+	<stoptimeout>30sec</stoptimeout>
+	<serviceaccount>
+		<domain>DESKTOP-KMR7JT2</domain>
+		<user>LocalSystem</user>
+		<password></password>
+	</serviceaccount>
+	<workingdirectory>C:\HOMEPAGE\proj\eshop</workingdirectory>
+</service>

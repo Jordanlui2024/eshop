@@ -1,0 +1,32 @@
+<!-- views/adminForm.ejs -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Create Admin</title>
+</head>
+<body>
+    <h1>Create Admin Account</h1>
+    <% if (error_msg) { %>
+        <p style="color: red;"><%= error_msg %></p>
+    <% } %>
+    <% if (success_msg) { %>
+        <p style="color: green;"><%= success_msg %></p>
+    <% } %>
+    <form action="/admin/create" method="POST">
+        <div>
+            <label for="name">Name:</label>
+            <input type="text" id="name" name="name" required>
+        </div>
+        <div>
+            <label for="email">Email:</label>
+            <input type="email" id="email" name="email" required>
+        </div>
+        <div>
+            <label for="password">Password:</label>
+            <input type="password" id="password" name="password" required>
+        </div>
+        <button type="submit">Create Admin</button>
+    </form>
+</body>
+</html>
